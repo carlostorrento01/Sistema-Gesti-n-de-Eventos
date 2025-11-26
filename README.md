@@ -1,20 +1,15 @@
-# Sistema-Gesti-n-de-Eventos
-¡Perfecto Kevin! Aquí tienes el **README.md** completo, limpio y en formato Markdown listo para pegar directamente en VSCode.
 
-Solo copiás-pegar y ¡listo! 😎🔥
 
----
-
-# 📱 Sistema de Gestión de Eventos Comunitarios
+#  Sistema de Gestión de Eventos Comunitarios
 
 Aplicación móvil desarrollada en **React Native + Expo Router**, diseñada para administrar eventos, asistencia, comentarios y estadísticas dentro de una comunidad local.
 El sistema utiliza **AsyncStorage** para almacenar toda la información localmente (ideal para prototipos o demostraciones).
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
-### 🔐 Autenticación con roles
+###  Autenticación con roles
 
 * **Administrador (admin)**
 * **Usuario (user)**
@@ -23,9 +18,9 @@ El sistema utiliza **AsyncStorage** para almacenar toda la información localmen
 
 ---
 
-## 📅 Gestión de Eventos
+##  Gestión de Eventos
 
-### 👑 Rol Administrador
+### Rol Administrador
 
 * Crear eventos
 * Editar eventos
@@ -41,7 +36,7 @@ El sistema utiliza **AsyncStorage** para almacenar toda la información localmen
 * Acceso al historial general
 * Cerrar sesión
 
-### 👤 Rol Usuario
+###  Rol Usuario
 
 * Ver eventos próximos y pasados
 * Buscar eventos por nombre, ubicación o categoría
@@ -52,7 +47,7 @@ El sistema utiliza **AsyncStorage** para almacenar toda la información localmen
 
 ---
 
-## ⭐ Interacción Social
+##  Interacción Social
 
 Cada evento permite:
 
@@ -62,7 +57,7 @@ Cada evento permite:
 
 ---
 
-## 📊 Estadísticas para Administradores
+##  Estadísticas para Administradores
 
 Cada evento tiene:
 
@@ -73,7 +68,7 @@ Cada evento tiene:
 
 ---
 
-## 🎨 Diseño moderno (tema oscuro)
+##  Diseño moderno (tema oscuro)
 
 El sistema posee:
 
@@ -87,7 +82,7 @@ Ideal para presentaciones, maquetas o proyectos educativos.
 
 ---
 
-## 🛠️ Tecnologías Usadas
+##  Tecnologías Usadas
 
 * **React Native**
 * **Expo Router**
@@ -98,7 +93,7 @@ Ideal para presentaciones, maquetas o proyectos educativos.
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 app/
@@ -131,26 +126,26 @@ services/
 
 ## 🔧 Instalación y ejecución
 
-### 1️⃣ Clonar el repositorio
+###  Clonar el repositorio
 
 ```sh
 git clone https://github.com/TU_USUARIO/TU_REPO.git
 cd TU_REPO
 ```
 
-### 2️⃣ Instalar dependencias
+###  Instalar dependencias
 
 ```sh
 npm install
 ```
 
-### 3️⃣ Iniciar Expo
+###  Iniciar Expo
 
 ```sh
 npx expo start
 ```
 
-### 4️⃣ Ejecutar en navegador (opcional)
+###  Ejecutar en navegador (opcional)
 
 ```sh
 npm run web
@@ -158,7 +153,7 @@ npm run web
 
 ---
 
-## 🔑 Credenciales por defecto
+##  Credenciales por defecto
 
 ### Admin
 
@@ -177,7 +172,7 @@ password: user123
 
 ---
 
-## 📌 Notas importantes
+##  Notas importantes
 
 * Todos los datos se guardan con **AsyncStorage**
 * Ideal para prototipos, pruebas y proyectos académicos
@@ -186,13 +181,13 @@ password: user123
 
 ---
 
-## 📜 Licencia
+##  Licencia
 
 Este proyecto puede utilizarse libremente con fines educativos o de demostración.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Carlos Alberto Torrento Andino**
 Sistema diseñado como parte de un proyecto académico.
